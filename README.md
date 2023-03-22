@@ -21,7 +21,7 @@ Note - the 360 photo will need to contain the correct GPS coords (x,y,z) for thi
 
 ## Software Used -
 1. Bluestacks - Latest version.  So far the specific version does not matter.  I was using 5.10.150.1016 P64 for reference.  
-2. Old version of Streetview App - (NEED TO GET THE LINK FROM MY REDDIT POST BUT REDDIT DOWN WHEN DRAFTING THIS)
+2. Old version of Streetview App - (https://apkpure.com/google-street-view/com.google.android.street/versions) Example Version - 2.0.0.268460236 (40449)
 Note - the website is a pain to use.  Make sure you enable a good ad blocker (ublock origin) and only click on the correct APK download link.
 3. Win 10 PC.  
 
@@ -54,3 +54,4 @@ Click publish on the images you added.  I have been clicking one at a time to pu
 ## Thank you's and sources of information - 
 1. UL2GSV - https://www.facebook.com/groups/Insta360Pro/posts/3934550599955390/?comment_id=3974963629247420
 2. Google Guides Connect Forums - https://www.localguidesconnect.com/t5/General-Discussion/bd-p/localguide/label-name/How-tos
+3. @jhg34 on Local Guides Connect - https://apkpure.com/google-street-view/com.google.android.street/versions
