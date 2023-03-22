@@ -3,6 +3,9 @@ Google is removing support for the StreetView apps.  Here is my current work-aro
 
 NOTE - This was written prior to Google Officially killing off GSV app support.  This may not work after 21 MAR 2023.  
 
+## UPDATE on 2023-03-22 - Looks like Google has killed the streetview app I use in this writeup.  
+More detail - https://www.localguidesconnect.com/t5/Highlights/Introducing-Street-View-Studio-for-360-photographers/bc-p/3576172/highlight/true#M106191
+
 
 ## Problem Statement
 Google is killing off the Streetview app for IOS and android.  This was my go-to to send my 360 drone photos to Google maps.  There were drawbacks to the on-phone process though - 1. The image quality was ok but not great.  2. The drone IOS app did not include the GPS coords, so the Streetview app was critical to set the location.  
@@ -54,4 +57,4 @@ Click publish on the images you added.  I have been clicking one at a time to pu
 ## Thank you's and sources of information - 
 1. UL2GSV - https://www.facebook.com/groups/Insta360Pro/posts/3934550599955390/?comment_id=3974963629247420
 2. Google Guides Connect Forums - https://www.localguidesconnect.com/t5/General-Discussion/bd-p/localguide/label-name/How-tos
-3. @jhg34 on Local Guides Connect - https://apkpure.com/google-street-view/com.google.android.street/versions
+3. @jhg34 on Local Guides Connect - https://www.localguidesconnect.com/t5/Highlights/Introducing-Street-View-Studio-for-360-photographers/bc-p/3576172/highlight/true#M106191
